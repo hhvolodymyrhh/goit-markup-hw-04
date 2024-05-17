@@ -38,7 +38,7 @@ img {
 }
 .navigation{
     display: flex;
-    align-items: center;
+    align-items: baseline;
 }
   .logo{
     font-family: "Raleway", sans-serif;
